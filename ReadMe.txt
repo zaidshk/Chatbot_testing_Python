@@ -3,6 +3,10 @@ This project focuses on automating the functional, Relevance Accuracy and perfor
 The chatbot utilizes Retrieval-Augmented Generation (RAG) to deliver accurate and relevant responses by integrating knowledge from predefined "golden answers" and a comprehensive RAG document.
 The scope includes functional validation, response quality evaluation, and performance testing.
 
+
+---
+
+Github Link - https://github.com/zaidshk/Chatbot_testing_Python
 ---
 
 ## Project Structure
@@ -40,11 +44,6 @@ LLM_chatbot_testing/
 ├── test_llm_chatbot.py             # Test runner for functional tests
 ├── test_llm_chatbot_performance.py # Parallel performance test runner
 
-
-
----
-
-##Github Link -
 
 ---
 

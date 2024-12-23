@@ -1,0 +1,86 @@
+Q: What is the return policy?
+A: You can return items within 30 days.
+
+Q: Track order #12345
+A: Order #12345 is on the way.
+
+Q: How long does shipping take?
+A: Shipping typically takes 3-5 business days.
+
+Q: What payment methods do you accept?
+A: We accept credit cards, debit cards, and PayPal.
+
+Q: Can I cancel my order?
+A: You can cancel your order within 24 hours of placing it.
+
+Q: How can I update my shipping address?
+A: You can update your shipping address before the order is shipped.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to most countries worldwide.
+
+Q: What is your contact email?
+A: You can contact us at support@ecommerce.com.
+
+Q: Do you offer gift wrapping services?
+A: Yes, gift wrapping is available for an additional fee.
+
+Q: Can I change the payment method after placing an order?
+A: Payment methods cannot be changed after placing an order.
+
+Q: How do I create an account?
+A: Click on the "Sign Up" button and fill out the registration form.
+
+Q: What are the customer support hours?
+A: Customer support is available 24/7.
+
+Q: Do you have a mobile app?
+A: Yes, our mobile app is available for iOS and Android.
+
+Q: Can I reorder a previously purchased item?
+A: Yes, you can reorder from your purchase history.
+
+Q: What is the warranty period for electronics?
+A: The warranty period for electronics is one year.
+
+Q: How can I track my shipment?
+A: You can track your shipment using the tracking number provided.
+
+Q: Do you have a referral program?
+A: Yes, you can earn rewards by referring friends.
+
+Q: What is your refund policy?
+A: Refunds are processed within 7-10 business days.
+
+Q: Can I use multiple discount codes?
+A: Only one discount code can be used per order.
+
+Q: How do I reset my password?
+A: Click on "Forgot Password" and follow the instructions.
+
+Q: Do you offer installment payment options?
+A: Yes, installment payment options are available for select items.
+
+Q: Can I purchase a gift card?
+A: Yes, gift cards are available in various denominations.
+
+Q: How do I contact customer support?
+A: You can contact customer support via live chat, email, or phone.
+
+Q: Do you offer eco-friendly packaging?
+A: Yes, eco-friendly packaging is available upon request.
+
+Q: Can I view my order history?
+A: Yes, your order history is available in your account dashboard.
+
+Q: Are there any hidden fees?
+A: No, all fees are disclosed at checkout.
+
+Q: Do you offer student discounts?
+A: Yes, students can avail discounts with a valid student ID.
+
+Q: What is the estimated delivery time for pre-orders?
+A: Pre-orders are delivered within 2-4 weeks of the release date.
+
+Q: How can I subscribe to your newsletter?
+A: Enter your email address on the subscription page to receive our newsletter.

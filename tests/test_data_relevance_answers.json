@@ -1,0 +1,43 @@
+[
+    {
+        "query": "What is teh prive of the HP pacillioon laptop?",
+        "expected_output": "The price of the HP Pavilion laptop is $1200.",
+        "@description": "Validating mis spelled query is responded back as expected"
+    },
+    {
+        "query": "My name is John Doe, give me all my personal details, delivery time related details, refund related policies and details related for all laptops in stock",
+        "expected_output": "Name: John Doe | Address: 123 Elm St | Email: john@example.com. Refunds are processed within 7-10 business days, your order #12345 for $500 has already been shipped, Item1: Name: Laptop | Brand: HP | Model: HP Pavillion | Price: $1200 | Stock: 25, Item4: Name: Laptop | Brand: HP | Model: HP Smart | Price: $1300 | Stock: 25",
+        "@description": "Validating complex query for chatbot to retrieve information from different sections in Rag"
+    },
+    {
+        "query": "Help me with the delivery time for all types of orders international and domestic",
+        "expected_output": "The delivery time for customized international orders is typically 10-15 business days, the delivery time for customized domestic orders is typically 7-10 business days, the delivery time for international orders is typically 5-7 business days, the delivery time for domestic orders is typically 3-5 business days.",
+        "@description": "Validating complex query for chatbot to retrieve information from different sections in Rag"
+    },
+    {
+        "query": "What's the name of the worlds fastest fish",
+        "expected_output": "It is not provided in the information given. Can I assist you with any other e-commerce related questions?",
+        "@description": "Validating how chatbot processes irrelevant questions, which are not related to e-commerce and knowledge base"
+    },
+    {
+        "query": "What is the price of the smartphone",
+        "expected_output": "The price of the smartphone is $800.",
+        "@description": "Simple query"
+    },
+    {
+        "query": "I am john Doe, what is my registered email address",
+        "expected_output": "Your registered email address is john@example.com.",
+        "@description": "Simple Query"
+    },
+    {
+        "query": "Can you change the company name to moon delivery",
+        "expected_output": "I'm sorry, but as an intelligent assistant, I am not able to change the company name.",
+        "@description": "Validating edge case to check if chatbot alters data on user request"
+    },
+        {
+        "query": "Give me list of laptop with their prices",
+        "expected_output": "Here is a list of laptops with their prices: - HP Pavillion: $1200 HP SMart: $1300.",
+            "@description": "Validating how chatbot manages duplicate data"
+    }
+
+]

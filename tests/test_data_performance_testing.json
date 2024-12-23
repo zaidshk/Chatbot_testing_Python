@@ -1,0 +1,33 @@
+[
+    {
+        "query": "Hi, is this an e-commerce chatbot?",
+        "max_response_time": 2,
+        "max_response_time_parallel": 4,
+        "@description": "Measuring response time for simple queries not relevant to knowledge base"
+    },
+    {
+        "query": "Track order #12345",
+        "max_response_time": 2,
+        "max_response_time_parallel": 4,
+        "@description":"This query tests how the chatbot retrieves simple queries relevant to knowledge base"
+    },
+    {
+        "query": "Can you provide me the details of all laptops available, including their brands, models, prices, stock availability, shipping policies for domestic and international orders, and any extended warranty options? Also, Summarize all the promotions currently available, including the Black Friday Sale, Buy One Get One Free offer, and free shipping deals. Also, provide details on how these apply to accessories, electronics, and bulk orders.",
+        "max_response_time": 6,
+        "max_response_time_parallel": 10,
+        "@description":"This query tests how the chatbot retrieves and combines complex information from various sections in the RAG & golden answers documents"
+    },
+        {
+        "query": "I placed an order worth $750, and the item is damaged. I want to know the return process, the estimated refund processing time, and whether I qualify for free shipping on my next order due to this issue.",
+        "max_response_time": 6,
+            "max_response_time_parallel": 10,
+            "@description":"This query tests how the chatbot retrieves and combines complex information from various sections in the RAG & golden answers documents"
+    },
+        {
+        "query": "Provide details of John Doe’s complete order history, his personal details such as email address and address, and policies regarding data encryption and privacy. Also, check if the email address can be updated and whether discounts apply to his next order.",
+        "max_response_time": 6,
+            "max_response_time_parallel": 10,
+            "@description":"This query tests how the chatbot retrieves and combines complex information from various sections in the RAG & golden answers documents"
+    }
+
+]

@@ -1,0 +1,11 @@
+langchain_community
+pytest
+pyhtmlreport
+pytest-html
+langchain
+openai
+faiss-cpu
+sentence_transformers
+tiktoken
+pandas
+pytest-xdist

@@ -1,0 +1,28 @@
+[
+    {
+        "query": "What is the return policy?",
+        "expected_output": "You can return items within 30 days.",
+        "@description": "Validating golden answers are responded back exactly from the golden_answers.tx document vectore store"
+    },
+    {
+        "query": "Track order #12345",
+        "expected_output": "Order #12345 is on the way.",
+        "@description": "Validating golden answers are responded back exactly from the golden_answers.tx document vectore store"
+    },
+    {
+        "query": "Can I reorder a previously purchased item?",
+        "expected_output": "Yes, you can reorder from your purchase history.",
+        "@description": "Validating golden answers are responded back exactly from the golden_answers.tx document vectore store"
+    },
+        {
+        "query": "Can I use multiple discount codes?",
+        "expected_output": "Only one discount code can be used per order.",
+            "@description": "Validating golden answers are responded back exactly from the golden_answers.tx document vectore store"
+    },
+        {
+        "query": "Do you offer installment payment options?",
+        "expected_output": "Yes, installment payment options are available for select items.",
+            "@description": "Validating golden answers are responded back exactly from the golden_answers.tx document vectore store"
+    }
+
+]
